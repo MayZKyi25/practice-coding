@@ -61,29 +61,31 @@ Resources and interview question tracking.
 
 ### Folder Structure
 
+```text
 practice-coding/
-│
 ├── README.md
 ├── .gitignore
 ├── requirements.txt
 │
-├── 1. python_review/
-├── ├──README.md
-│   ├── basics/...
-│   └── practice/...
+├── python_review/
+│   ├── README.md
+│   ├── basics/
+│   └── practice/
+│       ├── 01_find_max.py
+│       ├── 02_find_min.py
+│       ├── 03_count_element.py
+│       └── 04_count_words.py
 │
-├── 2. dsa_leetcode/
+├── dsa_leetcode/
 │   ├── README.md
 │   ├── arrays_hashing/
 │   │   ├── 0001_two_sum.py
 │   │   ├── 0217_contains_duplicate.py
 │   │   └── 0242_valid_anagram.py
-│   │   └── ...
 │   │
 │   ├── two_pointers/
 │   │   ├── 0125_valid_palindrome.py
 │   │   └── 0167_two_sum_ii.py
-│   │   └── ...
 │   │
 │   ├── sliding_window/
 │   ├── stack/
@@ -92,15 +94,15 @@ practice-coding/
 │   ├── trees/
 │   ├── graphs/
 │   └── dynamic_programming/
-|   └── ...
 │
-├── 3. ml_concepts_review/
+├── ml_concepts_review/
 │   ├── README.md
 │   ├── fundamentals/
 │   ├── math/
 │   ├── coding/
 │   └── system_design/
 │
-├── 4.resources/
-│   ├── resources.md
-│   └── interview_questions.md
+└── resources/
+    ├── resources.md
+    └── interview_questions.md
+```
