@@ -39,10 +39,8 @@ Each problem includes:
 - Optimized solution
 - Time and space complexity
 
-### 3. Leetcode Problems
 
-
-### 4. ML Interview
+### 3. ML Interview Practice
 
 Machine learning concepts, math foundations, ML coding, and ML system design.
 
@@ -57,7 +55,7 @@ Topics include:
 - Feature pipelines
 - Model serving
 
-### 5. Resource Hub
+### 4. Resources
 
 Resources and interview question tracking.
 
