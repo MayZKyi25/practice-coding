@@ -1,5 +1,5 @@
 """
-Problem 4: Count Words
+Problem 4: Count Same Words 
 
 Description:
 Write a function called count_words that takes a string as input
